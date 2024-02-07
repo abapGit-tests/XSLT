@@ -4,6 +4,20 @@
 >
 
 <xsl:strip-space elements="*"/>
+<xsl:strip-space elements="*"/>
+
+<xsl:strip-space elements="*"/>
+
+<xsl:strip-space elements="*"/>
+
+<xsl:strip-space elements="*"/>
+
+<xsl:strip-space elements="*"/>
+
+<xsl:strip-space elements="*"/>
+
+<xsl:strip-space elements="*"/>
+
 
 <xsl:template match="/">
 </xsl:template>
